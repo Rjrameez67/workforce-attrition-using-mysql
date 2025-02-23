@@ -1,4 +1,4 @@
-##Workforce Attrition Analysis using MySQL
+## Workforce Attrition Analysis using MySQL
 🚀 Project Overview
 This project analyzes employee attrition trends using MySQL. It provides insights into the factors influencing employee turnover, such as department, job satisfaction, salary, work-life balance, and performance ratings.
 
